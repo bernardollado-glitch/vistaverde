@@ -1,0 +1,28 @@
+*.js
+node_modules
+bin/
+.DS_Store
+**/.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.editor
+# Local runtime state and credentials
+.runtime-data/
+.dcl-sdk-reports/
+.env
+.env.*
+!.env.example
+*.log
+
+# Original video retained locally; screenshots remain versioned
+design/evidencia/*.mov
+design/evidencia/*.mp4
+
+# Recovered private conversations and historical working copies
+historial/
+codigo_historico/
+CONTEXTO_DECENTRALAND.md
+README_PARA_CODEX.md
+design/archive/
+design/GDD_RECONSTRUIDO.md
