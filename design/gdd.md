@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | Public experience title | VistaVerde — working title. IP & Content Policy self-check: TBD: not discussed yet. |
-| Deployment target | Decentraland World; proposed NAME: vistaverde. Ownership, availability and deployment permission are unverified. |
+| Deployment target | Published Decentraland World: vistaverde.dcl.eth. NAME acquired and deployment completed by the creator on 15 October 2026. |
 | Studio / team name | Vista Verde |
-| Date | 2026-10-14 |
+| Date | 2026-10-15 |
 | Contact (Discord + email) | Email: bernardo.llado@gmail.com · Discord: irondanu |
 
 ## 0. TL;DR
@@ -14,13 +14,13 @@
 |---|---|
 | **Player promise** | You farm with your community to feed it, while shared crops need care and spoil if nobody harvests them in time. |
 | **Primary player** | For players who enjoy relaxed farming games and want to cooperate with others during short visits. |
-| **Current status** | Local cooperative prototype, tested by the creator using desktop and Chrome with two identities; no public playable link verified. |
+| **Current status** | Published prototype in vistaverde.dcl.eth. Local cooperation tested by the creator using desktop and Chrome with two identities; harvest-count recovery confirmed by the creator in the public World. |
 | **Requested round** | v0 — initial Creator Success proposal. |
-| **Live at end of the round** | TBD: agree a small representative vertical-slice scope with Creator Success if selected for V0. The later target is a shared lettuce-and-watermelon farm with watering, automatic sale, proportional rewards, daily goals, cooperative progression, ranking and saved progress. Public deployment remains TBD. |
+| **Live at end of the round** | TBD: agree a small representative vertical-slice scope with Creator Success if selected for V0. The later target is a shared lettuce-and-watermelon farm with watering, automatic sale, proportional rewards, daily goals, cooperative progression, ranking and saved progress. The current test scene is published; the funded V0 scope is not yet agreed. |
 
 **Evidence and boundaries.** The creator confirmed shared planting, harvesting and watering across two clients, a five-harvest celebration, and harvest-count recovery after restarting. Four beds, time-based growth, wilting, cleaning, moisture indicators and saving exist. This is a creator self-test, not independent onboarding, retention or load-test evidence.
 
-**Planned systems.** Watering currently plays a short sound and changes the bucket from blue to brown, with one use per planted crop, but does not affect growth. Water-dependent growth, watermelon, currency, seed inventory, automatic sale, contributor histories, daily goals, community levels, ranking and the shared touch menu remain to be built. Mobile readiness and public deployment are unverified. A localhost address is not a public submission link.
+**Planned systems.** Watering currently plays a short sound and changes the bucket from blue to brown, with one use per planted crop, but does not affect growth. Water-dependent growth, watermelon, currency, seed inventory, automatic sale, contributor histories, daily goals, community levels, ranking and the shared touch menu remain to be built. Mobile readiness and public multi-client behavior are unverified. Public test-scene link: https://decentraland.org/jump/?realm=vistaverde.dcl.eth .
 
 ## 1. Player Promise
 
@@ -205,6 +205,6 @@ Which later-stage feature returns first is TBD: not discussed yet.
 
 **Top risk + fallback**
 
-Saving or synchronization may interrupt play. Stalls and reloads were observed; save writes were not proven causal. Local Hammurabi preview with automatic reloads disabled improved play, and the creator confirmed cooperation and recovery, but public/mobile behavior is unverified.
+Saving or synchronization may interrupt play. Stalls and reloads were observed; save writes were not proven causal. Local Hammurabi preview with automatic reloads disabled improved play, and the creator confirmed cooperation and recovery, but public multi-client and mobile behavior remain unverified.
 
 If stalls recur, Weeks 3–4 prioritize stability over extra features, without dropping cooperation or saving. Re-scope the schedule honestly if fixes consume its capacity; the compact ranking adds work that is not yet estimated.
