@@ -4,7 +4,7 @@ A cooperative farming game prototype for Decentraland SDK7, developed by the Vis
 
 ## Playable scene
 
-**Public World link: pending deployment.** The prototype currently runs locally. A localhost preview is not accessible to reviewers. This repository is being prepared for a Creator Success V0 application; it is not a completed funded vertical slice.
+**[Play Vista Verde](https://decentraland.org/jump/?realm=vistaverde.dcl.eth)** — World: `vistaverde.dcl.eth`. Published on 15 October 2026. The creator confirmed harvest-count recovery in the published World. Public multi-client synchronization and mobile behavior are not yet verified. This repository is being prepared for a Creator Success V0 application; it is not a completed funded vertical slice.
 
 ## Current prototype
 
@@ -38,7 +38,7 @@ For a second client, open Chrome with the realm printed by the server. If the pr
 
 https://decentraland.org/bevy-web/?preview=true&realm=http%3A%2F%2Flocalhost%3A8000&position=0%2C0
 
-The scene uses an authoritative multiplayer-server SDK build. Local server storage is excluded from Git; another checkout starts with its own local state. Public-server behavior and deployment remain unverified.
+The scene uses an authoritative multiplayer-server SDK build. Local server storage is excluded from Git; another checkout starts with its own local state. The published World was reached by the creator, who confirmed harvest-count recovery; public multi-client behavior remains unverified.
 
 ## Verify
 
