@@ -15,6 +15,6 @@ Capturado por el creador el 14 de octubre de 2026. Prueba local en Mac con clien
 
 Las capturas documentan el aspecto actual, cultivos, indicadores, dos avatares y el cartel de cosechas. El creador confirmó funcionamiento compartido, recuperación de cosechas al reiniciar y el nuevo riego. La celebración del cartel pertenece a la demo de cinco cosechas; no demuestra el futuro sistema de metas diarias o desbloqueos.
 
-El agua aún no modifica el crecimiento. Sandía, economía, premios proporcionales, metas diarias, niveles comunitarios y ranking siguen planificados. No hay enlace público ni prueba móvil confirmados.
+El agua aún no modifica el crecimiento. Sandía, economía, premios proporcionales, metas diarias, niveles comunitarios y ranking siguen planificados. World publicado el 15 de octubre de 2026: https://decentraland.org/jump/?realm=vistaverde.dcl.eth . El creador confirmó recuperación de cosechas en ese World; la cooperación entre clientes públicos y la prueba móvil siguen pendientes.
 
 Para adjuntar: usar las tres primeras capturas como selección principal, las dos restantes como detalle opcional y el video original si el formulario acepta MOV y su tamaño. No se publicó ni envió ningún archivo.
