@@ -22,3 +22,10 @@ src
 scripts/**
 tests/**
 *.command
+
+design
+design/**
+historial
+historial/**
+codigo_historico
+codigo_historico/**
